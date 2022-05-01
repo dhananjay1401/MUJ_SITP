@@ -1,0 +1,27 @@
+.footer {
+    
+    background-color: #212121;
+    position: fixed;
+    bottom: 0;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    width: 100%;
+    color: #fafafa;
+    font-size:12px;
+    text-align: center;
+    z-index:999;
+
+
+}
+
+.footer>div {
+padding: 12px;
+}
+
+
+.footer__logo>span {
+font-family: 'Times New Roman', Times, serif;
+color: #fafafa;
+font-size:13px;
+text-align: center;
+}

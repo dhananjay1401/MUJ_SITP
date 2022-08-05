@@ -87,9 +87,9 @@ function Signup() {
               onChange={handleInputs}
               placeholder="Enter email"
             />
-            <small id="emailHelp" class="form-text text-muted">
+            {/* <small id="emailHelp" class="form-text text-muted">
               We'll never share your email with anyone else.
-            </small>
+            </small> */}
           </div>
           <div class="form-group">
             <label for="exampleInputPassword1">Password</label>
@@ -128,7 +128,7 @@ function Signup() {
             />
           </div>
           <div class="form-group">
-            <label for="exampleInputPassword1">Your Profession</label>
+            {/* <label for="exampleInputPassword1">Your Profession</label>
             <input
               type="text"
               name="work"
@@ -137,7 +137,7 @@ function Signup() {
               value={user.work}
               onChange={handleInputs}
               placeholder="Your Profession"
-            />
+            /> */}
           </div>
 
           <div className="text-center">

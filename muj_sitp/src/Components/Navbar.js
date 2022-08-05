@@ -1,6 +1,6 @@
 import React from 'react'
 import LOGO from '../media/LOG.png'
-// import './Navbar.css'
+import './Navbar.css'
 import 'bootstrap/dist/css/bootstrap.css'
 import { NavLink } from 'react-router-dom'
 
@@ -35,7 +35,7 @@ function Navbar() {
       
   </div>
 </nav>
-<div classNameName='header' id='myHeader'>
+<div className='header' id='myHeader'>
 </div>
 
 

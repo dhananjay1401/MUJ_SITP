@@ -4,12 +4,12 @@ function About() {
   return (
     <div className="container mt-4">
       <div className="jumbotron">
-        <h1 className="display-4">Anmol Chaubey</h1>
+        <h1 className="display-4">Anmol Choubey</h1>
 
         <h3>2nd Year</h3>
         <p><h5>Personal Details</h5></p>
         <p>Registration Number : 209301401</p>      
-        <p>Email-id : anmolchaubey.209301401@muj.manipal.edu</p>
+        <p>Email-id : anmolchoubey.209301401@muj.manipal.edu</p>
         <p>Phone : 934567889</p>
         
         <hr className="my-1" />
